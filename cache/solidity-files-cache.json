@@ -1,0 +1,51 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/danushkaadikari/Desktop/Projects/PRN Token/contracts/PRNToken.sol": {
+      "lastModificationDate": 1730999562515,
+      "contentHash": "04f8bbba3e22a9408adefb36a79c2a80",
+      "sourceName": "contracts/PRNToken.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Context",
+        "ERC20",
+        "IERC20",
+        "IPayable",
+        "Ownable",
+        "PRNToken",
+        "SafeMath"
+      ]
+    }
+  }
+}
